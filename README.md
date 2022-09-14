@@ -12,7 +12,7 @@ the following attributes:
     - birth date
 
 PURPOSE:
-All familiarize myself with establishing the environment, installing dependencies and how Node.JS & Express work with TypeScript.
+To familiarize myself with establishing the environment, installing dependencies and working with how Node.JS & Express adapt to TypeScript.
 
 LEARNING CURVE: 
 Even though the initial setup was cumbersom and a bit tentative. It was excellent to see TypeScript in action: it's great to be
